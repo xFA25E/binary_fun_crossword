@@ -1,4 +1,3 @@
 #+TITLE: Binary Fun Crossword
 
 This is a small ncurses game inspired by Binary Fun android game.
-You can add custom images to /images/ directory.
